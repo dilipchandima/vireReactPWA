@@ -1,0 +1,24 @@
+{
+  "name": "My First Application",
+  "short_name": "Application",
+  "icons": [
+    {
+      "src": "/images/60.png",
+      "type": "image/png",
+      "sizes": "60x60"
+      // "purpose": "any maskable"
+    },
+    {
+      "src": "/images/180.png",
+      "type": "image/png",
+      "sizes": "180x180"
+      // "purpose": "any maskable"
+    }
+  ],
+  "start_url": "/",
+  "orientation": "portrait",
+  "background_color": "#2e75da",
+  "display": "standalone",
+  // "scope": "/mobile/",
+  "theme_color": "#0f3c6b"
+}
